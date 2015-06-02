@@ -1,7 +1,7 @@
 # Sublime Text - View In Browser
 
 *<a href="http://adampresley.github.io/sublime-view-in-browser/">View In Browser</a>* is a Sublime Text plugin that will open whatever is in your
-current view/tab. If the file current open is new and has not been saved a temporary file is created (in your default temp directory for your OS) with the extension of **.htm** and your browser will open it. However if the current open file is saved and has a name this plugin will open it in whatever you have set to handle its type.
+current view/tab. If the file current open is new and has not been saved as a temporary file is created (in your default temp directory for your OS) with the extension of **.htm** and your browser will open it. However if the current open file is saved and has a name this plugin will open it in whatever you have set to handle its type.
 
 By default the keystroke assigned to this plugin is *CTRL + ALT + V*.
 
